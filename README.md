@@ -27,5 +27,5 @@ yaml
 Copy code
 
 ## 📸 Preview
-![App Screenshot](https://github.com/mayuri-ai06/streamlit_image_generator/blob/main/NATURE%20STREAMLIT.png?raw=true)
+![App Screenshot](https://github.com/mayuri-ai06/streamlit_image_generator/blob/main/assets/NATURE%20STREAMLIT.png?raw=true)
 ![App Screenshot](https://github.com/mayuri-ai06/streamlit_image_generator/blob/main/streamlit.car.png?raw=true)
