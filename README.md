@@ -1,4 +1,5 @@
 # 🌈 Streamlit Image Generator
+This project follows secure environment variable handling using a .env file to protect API keys and credentials.
 
 A simple and beginner-friendly **Streamlit web app** that fetches images from the **Unsplash API** based on a user-entered keyword.
 
